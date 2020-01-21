@@ -19,12 +19,12 @@ html {
   color: var(--color-primary);
   border-color: var(--color-primary);
   border-radius: var(--border-radius);
-  font-family: var(--font-secondary)
+  font-family: var(--font-secondary);
 }
 
 .btn {
   background-color: var(--color-primary);
   border-color: var(--color-primary);
   border-radius: var(--border-radius);
-  font-family: var(--font-secondary)
+  font-family: var(--font-secondary);
 }
